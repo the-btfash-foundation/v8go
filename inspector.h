@@ -23,7 +23,6 @@ typedef struct v8InspectorClient v8InspectorClient;
 
 typedef struct v8Isolate v8Isolate;
 
-typedef _Bool bool;
 
 #endif
 
