@@ -10,8 +10,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Add support for ObjectTemplate.MarkAsUndetectable.
 - Add `Value.StrictEquals` providing strict equality checks in Go code.
-- Add resource constraint options to `NewIsolate` in [#111](https://github.com/tommie/v8go/pull/111).
-- Add support for `Value.TypeOf()` corresponding to JavaScript `typeof` operator in [#104](https://github.com/tommie/v8go/pull/104).
+- Add resource constraint options to `NewIsolate` in [#111](https://github.com/the-btfash-foundation/v8go/pull/111).
+- Add support for `Value.TypeOf()` corresponding to JavaScript `typeof` operator in [#104](https://github.com/the-btfash-foundation/v8go/pull/104).
 
 ### Changed
 
@@ -148,7 +148,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Release tags need to include the patch number.
   Thank you for the report, @GraphR00t.
-  (https://github.com/tommie/v8go/issues/62)
+  (https://github.com/the-btfash-foundation/v8go/issues/62)
 
 ## [v0.11] - 2024-03-02
 
